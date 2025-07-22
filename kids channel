@@ -1,99 +1,147 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=""tvg-logo="https://m.media-amazon.com/images/I/51lU0AwAZPL.png",Rongegn https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://m.media-amazon.com/images/I/51lU0AwAZPL.png",Rongegn 
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title=""tvg-logo="https://w7.pngwing.com/pngs/46/20/png-transparent-oggy-encapsulated-postscript-roach-miscellaneous-marine-mammal-insects.png",Ogge https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/14d8037e-90d4-41ed-8ff3-1b75cf5b622f/0.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://w7.pngwing.com/pngs/46/20/png-transparent-oggy-encapsulated-postscript-roach-miscellaneous-marine-mammal-insects.png",Ogge 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/14d8037e-90d4-41ed-8ff3-1b75cf5b622f/0.m3u8
 
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/6qsjdhLd/bf6d5e5ffa2259622fc5eabcba2e5b22.png",Gubbare https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/6qsjdhLd/bf6d5e5ffa2259622fc5eabcba2e5b22.png",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/v81sJ3RF/7f92f7a33ad65b181b3cb93900b58228.png",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/x15hJzr3/699391a2c013c54b4266bde15e2cb99c.png",Hangama http://xtv.ooo:8080/live/874246786/743567899/150480.m3u8
+#EXTINF:-1 group-title=""tvg-logo="https://i.postimg.cc/x15hJzr3/699391a2c013c54b4266bde15e2cb99c.png",Hangama
+http://xtv.ooo:8080/live/874246786/743567899/150480.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="" tvg-chno="3610",Nick Pluto TV https://jmp2.uk/sam-USBA3000158L.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="" tvg-chno="3610",Nick Pluto TV 
+https://jmp2.uk/sam-USBA3000158L.m3u8
 
-#EXTINF:-1 channel-id="samsung-US4500002UB" tvg-id="US4500002UB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500002UB_20241210T231515SQUARE.png" group-title="" tvg-chno="3612",Mattel Jr. https://jmp2.uk/sam-US4500002UB.m3u8
+#EXTINF:-1 channel-id="samsung-US4500002UB" tvg-id="US4500002UB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500002UB_20241210T231515SQUARE.png" group-title="" tvg-chno="3612",Mattel Jr. 
+https://jmp2.uk/sam-US4500002UB.m3u8
 
-#EXTINF:-1 channel-id="samsung-IN4600008T4" tvg-id="IN4600008T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png" group-title="" tvg-chno="1268",KidDo MATIX https://jmp2.uk/sam-IN4600008T4.m3u8
+#EXTINF:-1 channel-id="samsung-IN4600008T4" tvg-id="IN4600008T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png" group-title="" tvg-chno="1268",KidDo MATIX
+https://jmp2.uk/sam-IN4600008T4.m3u8
 
-#EXTINF:-1 channel-id="samsung-IN4600009F9" tvg-id="IN4600009F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20250122T004827SQUARE.png" group-title="" tvg-chno="1270",Hooray Kids https://jmp2.uk/sam-IN4600009F9.m3u8
+#EXTINF:-1 channel-id="samsung-IN4600009F9" tvg-id="IN4600009F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20250122T004827SQUARE.png" group-title="" tvg-chno="1270",Hooray Kids
+https://jmp2.uk/sam-IN4600009F9.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="" tvg-chno="3610",Nick Pluto TV https://jmp2.uk/sam-USBA3000158L.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" group-title="" tvg-chno="3610",Nick Pluto TV 
+https://jmp2.uk/sam-USBA3000158L.m3u8
 
-#EXTINF:-1 channel-id="samsung-US4500002UB" tvg-id="US4500002UB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500002UB_20241210T231515SQUARE.png" group-title="" tvg-chno="3612",Mattel Jr. https://jmp2.uk/sam-US4500002UB.m3u8
+#EXTINF:-1 channel-id="samsung-US4500002UB" tvg-id="US4500002UB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4500002UB_20241210T231515SQUARE.png" group-title="" tvg-chno="3612",Mattel Jr. 
+https://jmp2.uk/sam-US4500002UB.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD490000209" tvg-id="USBD490000209" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png" group-title="" tvg-chno="3613",Barbie and Friends https://jmp2.uk/sam-USBD490000209.m3u8
+#EXTINF:-1 channel-id="samsung-USBD490000209" tvg-id="USBD490000209" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png" group-title="" tvg-chno="3613",Barbie and Friends
+https://jmp2.uk/sam-USBD490000209.m3u8
 
-#EXTINF:-1 channel-id="samsung-US2900013AY" tvg-id="US2900013AY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20241028T174226SQUARE.png" group-title="" tvg-chno="3614",Hot Wheels Action https://jmp2.uk/sam-US2900013AY.m3u8
+#EXTINF:-1 channel-id="samsung-US2900013AY" tvg-id="US2900013AY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20241028T174226SQUARE.png" group-title="" tvg-chno="3614",Hot Wheels Action 
+https://jmp2.uk/sam-US2900013AY.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABA3700003NA" tvg-id="CABA3700003NA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700003NA_20250121T094426SQUARE.png" group-title="" tvg-chno="3627",Moonbug https://jmp2.uk/sam-CABA3700003NA.m3u8
+#EXTINF:-1 channel-id="samsung-CABA3700003NA" tvg-id="CABA3700003NA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700003NA_20250121T094426SQUARE.png" group-title="" tvg-chno="3627",Moonbug
+https://jmp2.uk/sam-CABA3700003NA.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBB11000015Q" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241105T185734SQUARE.png" group-title="" tvg-chno="3627",Moonbug https://jmp2.uk/sam-USBB11000015Q.m3u8
+#EXTINF:-1 channel-id="samsung-USBB11000015Q" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20241105T185734SQUARE.png" group-title="" tvg-chno="3627",Moonbug 
+https://jmp2.uk/sam-USBB11000015Q.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD50000048H" tvg-id="USBD50000048H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20240520T214750SQUARE.png" group-title="" tvg-chno="3633",Caillou https://jmp2.uk/sam-USBD50000048H.m3u8
+#EXTINF:-1 channel-id="samsung-USBD50000048H" tvg-id="USBD50000048H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20240520T214750SQUARE.png" group-title="" tvg-chno="3633",Caillou 
+https://jmp2.uk/sam-USBD50000048H.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD42000124T" tvg-id="USBD42000124T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000124T_20250121T101055SQUARE.png" group-title="" tvg-chno="3636",Fireman Sam https://jmp2.uk/sam-USBD42000124T.m3u8
+#EXTINF:-1 channel-id="samsung-USBD42000124T" tvg-id="USBD42000124T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000124T_20250121T101055SQUARE.png" group-title="" tvg-chno="3636",Fireman Sam 
+https://jmp2.uk/sam-USBD42000124T.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABD1200040JI" tvg-id="CABD1200040JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200040JI_20250121T094912SQUARE.png" group-title="" tvg-chno="3639",Baby Einstein https://jmp2.uk/sam-CABD1200040JI.m3u8
+#EXTINF:-1 channel-id="samsung-CABD1200040JI" tvg-id="CABD1200040JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200040JI_20250121T094912SQUARE.png" group-title="" tvg-chno="3639",Baby Einstein
+https://jmp2.uk/sam-CABD1200040JI.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD350002338" tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20241105T185711SQUARE.png" group-title="" tvg-chno="3639",Baby Einstein https://jmp2.uk/sam-USBD350002338.m3u8
+#EXTINF:-1 channel-id="samsung-USBD350002338" tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20241105T185711SQUARE.png" group-title="" tvg-chno="3639",Baby Einstein 
+https://jmp2.uk/sam-USBD350002338.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABC5200004AI" tvg-id="CABC5200004AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200004AI_20250121T095336SQUARE.png" group-title="" tvg-chno="3651",Strawberry Shortcake https://jmp2.uk/sam-CABC5200004AI.m3u8
+#EXTINF:-1 channel-id="samsung-CABC5200004AI" tvg-id="CABC5200004AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200004AI_20250121T095336SQUARE.png" group-title="" tvg-chno="3651",Strawberry Shortcake 
+https://jmp2.uk/sam-CABC5200004AI.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC4400012QS" tvg-id="USBC4400012QS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20240520T214845SQUARE.png" group-title="" tvg-chno="3651",Strawberry Shortcake https://jmp2.uk/sam-USBC4400012QS.m3u8
+#EXTINF:-1 channel-id="samsung-USBC4400012QS" tvg-id="USBC4400012QS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20240520T214845SQUARE.png" group-title="" tvg-chno="3651",Strawberry Shortcake 
+https://jmp2.uk/sam-USBC4400012QS.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABC2300017XX" tvg-id="CABC2300017XX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20250121T095053SQUARE.png" group-title="" tvg-chno="3654",HappyKids https://jmp2.uk/sam-CABC2300017XX.m3u8
+#EXTINF:-1 channel-id="samsung-CABC2300017XX" tvg-id="CABC2300017XX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20250121T095053SQUARE.png" group-title="" tvg-chno="3654",HappyKids
+https://jmp2.uk/sam-CABC2300017XX.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC44000072I" tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png" group-title="" tvg-chno="3654",HappyKids https://jmp2.uk/sam-USBC44000072I.m3u8
+#EXTINF:-1 channel-id="samsung-USBC44000072I" tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20240520T214801SQUARE.png" group-title="" tvg-chno="3654",HappyKids 
+https://jmp2.uk/sam-USBC44000072I.m3u8
 
-#EXTINF:-1 channel-id="samsung-US2200006FS" tvg-id="US2200006FS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200006FS_20240924T011019SQUARE.png" group-title="" tvg-chno="3656",Shaun the Sheep https://jmp2.uk/sam-US2200006FS.m3u8
+#EXTINF:-1 channel-id="samsung-US2200006FS" tvg-id="US2200006FS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200006FS_20240924T011019SQUARE.png" group-title="" tvg-chno="3656",Shaun the Sheep
+https://jmp2.uk/sam-US2200006FS.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300015BY" tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20250121T101108SQUARE.png" group-title="" tvg-chno="3657",Rainbow Ruby https://jmp2.uk/sam-USBD3300015BY.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300015BY" tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20250121T101108SQUARE.png" group-title="" tvg-chno="3657",Rainbow Ruby
+https://jmp2.uk/sam-USBD3300015BY.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300016AK" tvg-id="USBD3300016AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20250121T101111SQUARE.png" group-title="" tvg-chno="3663",Rev and Roll https://jmp2.uk/sam-USBD3300016AK.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300016AK" tvg-id="USBD3300016AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20250121T101111SQUARE.png" group-title="" tvg-chno="3663",Rev and Roll 
+https://jmp2.uk/sam-USBD3300016AK.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBB3600001R6" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" group-title="" tvg-chno="3666",TG Junior https://jmp2.uk/sam-USBB3600001R6.m3u8
+#EXTINF:-1 channel-id="samsung-USBB3600001R6" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png" group-title="" tvg-chno="3666",TG Junior
+https://jmp2.uk/sam-USBB3600001R6.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300019OU" tvg-id="USBD3300019OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20250121T101053SQUARE.png" group-title="" tvg-chno="3669",All Babies Channel https://jmp2.uk/sam-USBD3300019OU.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300019OU" tvg-id="USBD3300019OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20250121T101053SQUARE.png" group-title="" tvg-chno="3669",All Babies Channel
+https://jmp2.uk/sam-USBD3300019OU.m3u8
 
-#EXTINF:-1 channel-id="samsung-CA3400004MA" tvg-id="CA3400004MA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3400004MA_20250121T095504SQUARE.png" group-title="" tvg-chno="3670",ducktv https://jmp2.uk/sam-CA3400004MA.m3u8
+#EXTINF:-1 channel-id="samsung-CA3400004MA" tvg-id="CA3400004MA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3400004MA_20250121T095504SQUARE.png" group-title="" tvg-chno="3670",ducktv
+https://jmp2.uk/sam-CA3400004MA.m3u8
 
-#EXTINF:-1 channel-id="samsung-US3400003HI" tvg-id="US3400003HI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="" tvg-chno="3670",ducktv https://jmp2.uk/sam-US3400003HI.m3u8
+#EXTINF:-1 channel-id="samsung-US3400003HI" tvg-id="US3400003HI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="" tvg-chno="3670",ducktv
+https://jmp2.uk/sam-US3400003HI.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300013KV" tvg-id="USBD3300013KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300013KV_20240520T214837SQUARE.png" group-title="" tvg-chno="3672",Sensical Jr https://jmp2.uk/sam-USBD3300013KV.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300013KV" tvg-id="USBD3300013KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300013KV_20240520T214837SQUARE.png" group-title="" tvg-chno="3672",Sensical Jr 
+https://jmp2.uk/sam-USBD3300013KV.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABC230001363" tvg-id="CABC230001363" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC230001363_20250121T095117SQUARE.png" group-title="" tvg-chno="3687",LEGO Channel https://jmp2.uk/sam-CABC230001363.m3u8
+#EXTINF:-1 channel-id="samsung-CABC230001363" tvg-id="CABC230001363" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC230001363_20250121T095117SQUARE.png" group-title="" tvg-chno="3687",LEGO Channel 
+https://jmp2.uk/sam-CABC230001363.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBA2300001S8" tvg-id="USBA2300001S8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="" tvg-chno="3687",The LEGO Channel https://jmp2.uk/sam-USBA2300001S8.m3u8
+#EXTINF:-1 channel-id="samsung-USBA2300001S8" tvg-id="USBA2300001S8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="" tvg-chno="3687",The LEGO Channel 
+https://jmp2.uk/sam-USBA2300001S8.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300020PM" tvg-id="USBD3300020PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20250121T101043SQUARE.png" group-title="" tvg-chno="3690",Sonic The Hedgehog https://jmp2.uk/sam-USBD3300020PM.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300020PM" tvg-id="USBD3300020PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20250121T101043SQUARE.png" group-title="" tvg-chno="3690",Sonic The Hedgehog
+https://jmp2.uk/sam-USBD3300020PM.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD33000180S" tvg-id="USBD33000180S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD33000180S_20250121T101040SQUARE.png" group-title="" tvg-chno="3693",Slugterra https://jmp2.uk/sam-USBD33000180S.m3u8
+#EXTINF:-1 channel-id="samsung-USBD33000180S" tvg-id="USBD33000180S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD33000180S_20250121T101040SQUARE.png" group-title="" tvg-chno="3693",Slugterra
+https://jmp2.uk/sam-USBD33000180S.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD12000239N" tvg-id="USBD12000239N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000239N_20240520T214835SQUARE.png" group-title="" tvg-chno="3696",Ryan and Friends https://jmp2.uk/sam-USBD12000239N.m3u8
+#EXTINF:-1 channel-id="samsung-USBD12000239N" tvg-id="USBD12000239N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000239N_20240520T214835SQUARE.png" group-title="" tvg-chno="3696",Ryan and Friends 
+https://jmp2.uk/sam-USBD12000239N.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABD120000693" tvg-id="CABD120000693" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120000693_20250121T095507SQUARE.png" group-title="" tvg-chno="3702",pocket.watch Game-On https://jmp2.uk/sam-CABD120000693.m3u8
+#EXTINF:-1 channel-id="samsung-CABD120000693" tvg-id="CABD120000693" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120000693_20250121T095507SQUARE.png" group-title="" tvg-chno="3702",pocket.watch Game-On 
+https://jmp2.uk/sam-CABD120000693.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD12000153A" tvg-id="USBD12000153A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000153A_20241007T170909SQUARE.png" group-title="" tvg-chno="3702",pocket.watch Game-On https://jmp2.uk/sam-USBD12000153A.m3u8
+#EXTINF:-1 channel-id="samsung-USBD12000153A" tvg-id="USBD12000153A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000153A_20241007T170909SQUARE.png" group-title="" tvg-chno="3702",pocket.watch Game-On
+https://jmp2.uk/sam-USBD12000153A.m3u8
 
-#EXTINF:-1 channel-id="samsung-CA220000285" tvg-id="CA220000285" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA220000285_20250121T095151SQUARE.png" group-title="" tvg-chno="3704",Ninja Kidz https://jmp2.uk/sam-CA220000285.m3u8
+#EXTINF:-1 channel-id="samsung-CA220000285" tvg-id="CA220000285" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA220000285_20250121T095151SQUARE.png" group-title="" tvg-chno="3704",Ninja Kidz
+https://jmp2.uk/sam-CA220000285.m3u8
 
-#EXTINF:-1 channel-id="samsung-US2200007QG" tvg-id="US2200007QG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20240924T011005SQUARE.png" group-title="" tvg-chno="3704",Ninja Kidz https://jmp2.uk/sam-US2200007QG.m3u8
+#EXTINF:-1 channel-id="samsung-US2200007QG" tvg-id="US2200007QG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20240924T011005SQUARE.png" group-title="" tvg-chno="3704",Ninja Kidz 
+https://jmp2.uk/sam-US2200007QG.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBB1900004J9" tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="" tvg-chno="3705",Toon Goggles https://jmp2.uk/sam-USBB1900004J9.m3u8
+#EXTINF:-1 channel-id="samsung-USBB1900004J9" tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="" tvg-chno="3705",Toon Goggles 
+https://jmp2.uk/sam-USBB1900004J9.m3u8
 
-#EXTINF:-1 channel-id="samsung-CAAJ34000122Z" tvg-id="CAAJ34000122Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000122Z_20250121T094348SQUARE.png" group-title="" tvg-chno="3708",Kidoodle.TV https://jmp2.uk/sam-CAAJ34000122Z.m3u8
+#EXTINF:-1 channel-id="samsung-CAAJ34000122Z" tvg-id="CAAJ34000122Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000122Z_20250121T094348SQUARE.png" group-title="" tvg-chno="3708",Kidoodle.TV
+https://jmp2.uk/sam-CAAJ34000122Z.m3u8
 
-#EXTINF:-1 channel-id="samsung-USAK3508716A" tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20240520T214555SQUARE.png" group-title="" tvg-chno="3708",Kidoodle.TV https://jmp2.uk/sam-USAK3508716A.m3u8
+#EXTINF:-1 channel-id="samsung-USAK3508716A" tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20240520T214555SQUARE.png" group-title="" tvg-chno="3708",Kidoodle.TV
+https://jmp2.uk/sam-USAK3508716A.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300017XB" tvg-id="USBD3300017XB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300017XB_20240520T214839SQUARE.png" group-title="" tvg-chno="3711",Sensical Makers https://jmp2.uk/sam-USBD3300017XB.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300017XB" tvg-id="USBD3300017XB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300017XB_20240520T214839SQUARE.png" group-title="" tvg-chno="3711",Sensical Makers 
+https://jmp2.uk/sam-USBD3300017XB.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABD12000247O" tvg-id="CABD12000247O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD12000247O_20250121T095501SQUARE.png" group-title="" tvg-chno="3714",batteryPOP https://jmp2.uk/sam-CABD12000247O.m3u8
+#EXTINF:-1 channel-id="samsung-CABD12000247O" tvg-id="CABD12000247O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD12000247O_20250121T095501SQUARE.png" group-title="" tvg-chno="3714",batteryPOP 
+https://jmp2.uk/sam-CABD12000247O.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBD3300012VX" tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20240520T214906SQUARE.png" group-title="" tvg-chno="3714",batteryPOP https://jmp2.uk/sam-USBD3300012VX.m3u8
+#EXTINF:-1 channel-id="samsung-USBD3300012VX" tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20240520T214906SQUARE.png" group-title="" tvg-chno="3714",batteryPOP
+https://jmp2.uk/sam-USBD3300012VX.m3u8
 
-#EXTINF:-1 channel-id="samsung-CA800001ZX" tvg-id="CA800001ZX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250121T094909SQUARE.png" group-title="" tvg-chno="3724",BBC Kids https://jmp2.uk/sam-CA800001ZX.m3u8
+#EXTINF:-1 channel-id="samsung-CA800001ZX" tvg-id="CA800001ZX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250121T094909SQUARE.png" group-title="" tvg-chno="3724",BBC Kids
+https://jmp2.uk/sam-CA800001ZX.m3u8
 
-#EXTINF:-1 channel-id="samsung-US800003JM" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="" tvg-chno="3724",BBC Kids https://jmp2.uk/sam-US800003JM.m3u8
+#EXTINF:-1 channel-id="samsung-US800003JM" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="" tvg-chno="3724",BBC Kids
+https://jmp2.uk/sam-US800003JM.m3u8
 
-kisd/README.md at main · kfcsprts/kisd 
+
